@@ -1,6 +1,6 @@
 ### Olá! Eu sou o José Carlos 
 
-- 🔭 Estou buscando meu primeiro trabalho
+- 🔭 Em busca da minha primeira experiência
 - 🌱 Estudando Backend
 - 😄 Pronomes: Ele/Dele
 
