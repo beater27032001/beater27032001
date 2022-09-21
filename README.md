@@ -39,8 +39,13 @@
 <h3 align=center>Database</h3>
 <div style="display: inline_block">
   <img align="center" alt="Jose-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>  
+</div> 
 
+<h3 align=center>Version control and Docs</h3>
+<div style="display: inline_block">
+  <img align="center" alt="Jose-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>   
+  
 ##
 
 
