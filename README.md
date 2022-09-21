@@ -1,7 +1,7 @@
 ### Olá! Eu sou o José Carlos 
 
-- 🔭 Em busca da minha primeira experiência
-- 🌱 Estudando Backend
+- 🔭 Em busca da minha primeira oportunidade
+- 🌱 Estudando: Frontend
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
