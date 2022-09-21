@@ -2,11 +2,11 @@
 
 <div align=center>
 
-:keyboard: ~~Full-Stack~~ Front-End Developer
+:keyboard: Programming student
 
 :round_pushpin: Pernambuco, Brazil :brazil:
 
-:speaking_head: Portuguese (native), English (advanced)
+:speaking_head: Portuguese (native), English (intermediary)
 
 :man: he / him / ele / dele
 
