@@ -45,7 +45,13 @@
 <div style="display: inline_block">
   <img align="center" alt="Jose-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Jose-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>   
+</div>  
+ 
+<h3 align=center>IDE's</h3>
+<div style="display: inline_block">
+  <img align="center" alt="Jose-VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Jose-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>  
   
 ##
 
