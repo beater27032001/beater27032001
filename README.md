@@ -1,8 +1,14 @@
-### Olá! Eu sou o José Carlos 
+<h1 align=center>José Carlos</h1>
 
-- 🔭 Em busca da minha primeira oportunidade
-- 🌱 Estudando: Frontend
-- 😄 Pronomes: Ele/Dele
+<div align=center>
+
+:keyboard: ~~Full-Stack~~ Front-End Developer
+
+:round_pushpin: Pernambuco, Brazil :brazil:
+
+:speaking_head: Portuguese (native), English (advanced)
+
+:man: he / him / ele / dele
 
 <div align="center">
   <a href="https://github.com/beater27032001">
