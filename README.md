@@ -56,6 +56,8 @@
 <h3 align=center>Currently Learning</h3>
 <div style="display: inline_block">
   <img align="center" alt="Jose-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Jose-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
+  <img align="center" alt="Jose-AfterEfects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
 </div> 
   
  
