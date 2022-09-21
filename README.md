@@ -21,18 +21,6 @@
 
 ---
 
-> :brazil: :portugal:
-
-Me chamo José Carlos e estou busca de bons resultados, novas experiências, crescimento pessoal e profissional. Sou uma pessoa proativa, comunicativa, gosto de trabalhar em equipe e tenho grande facilidade com números e problemas de raciocínio lógico. 
-
-Sou estudante de programação pela Qualiti Innovative Learning e também do curso técnico de Manutenção e Suporte em Informática pelo SENAI-PE.
-
-> :uk: :us:
-
-My name is José Carlos and I'm looking for good results, new experiences, personal and professional growth. I am a proactive, communicative person, I like to work in a team and I have great facility with numbers and logical reasoning problems.
-
-I am a programming student at Qualiti Innovative Learning and also a technical course in Computer Maintenance and Support at SENAI-PE.
-
 <div align="center">
   <a href="https://github.com/beater27032001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beater27032001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
