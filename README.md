@@ -72,5 +72,10 @@
     <img align="center" alt="Jose-TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="Jose-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div> 
-  
+
+---
+
+<div>
+  ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/beater27032001?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=purple&dark=true)
+</div>
 
